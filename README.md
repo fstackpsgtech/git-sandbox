@@ -27,7 +27,7 @@ Try out this simple youtube playlist.
 ## Ready for an Adventure?
 -   Step 1: Install git on your local machines.
 -   Step 2: Create a GitHub account.
--   Step 3: Edit [Members](https://github.com/opensourcely/Getting-Started/edit/master/Members.md) to Add <Your_Name - Your_GitHub username > .
+-   Step 3: Edit [Members](https://github.com/fstackpsgtech/git-sandbox/edit/main/Members.md) to Add <Your_Name - Your_GitHub username > .
 -   Step 4: Create a Pull request.
 -   Step 5: Welcome to the community.
 ---
